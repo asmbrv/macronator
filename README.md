@@ -10,6 +10,6 @@ A simple WoW WOTLK v3.3.5a addon that supports macros with a 1024 character limi
 
 ## Installation
 
-1. Download the [latest package](https://github.com/asmbrv/macronator/releases/tag/Latest).
+1. Download the [latest package](https://github.com/asmbrv/macronator/releases/tag/Lastest).
 2. Extract the ZIP file to your `Interface\AddOns` folder.
 3. Open the macro panel via Menu > Macros, and have fun.
