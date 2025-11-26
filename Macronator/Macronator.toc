@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Macronator
+## Notes: Macros now have a limit of 1024 characters.
+## Author: .asm
+## Version: 1.0
+## SavedVariables: StoredMacros, StoredMacrosPerCharacter
+Macronator.lua
